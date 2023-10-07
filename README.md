@@ -17,6 +17,14 @@ Synthesis of Contrast-Enhanced Breast MRI Using T1- and Multi-b-Value DWI-Based 
 ### Visualization
 ![image](https://github.com/Netherlands-Cancer-Institute/CE-MRI/blob/main/figures/Visualization.png)
 
+### Citation
+If this work is helpful for you, please cite our paper as follows:
+
+```
+Zhang, T. et al. Synthesis of Contrast-Enhanced Breast MRI Using T1-and Multi-b-Value DWI-Based Hierarchical Fusion Network with Attention Mechanism. In International Conference on Medical Image Computing and Computer-Assisted Intervention. 2023: 79-88.
+```
+[DOI](https://doi.org/10.1007/978-3-031-43990-2_8)
+
 ### Contact details
 If you have any questions please contact us. 
 
